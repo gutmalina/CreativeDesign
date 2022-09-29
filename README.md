@@ -1,6 +1,6 @@
 # Creative Design
 
-Одностраничный сайт-портфолио творческих проектов(находится в разработке)
+Одностраничный сайт-портфолио творческих проектов (находится в разработке)
 
 ### План работ:
 * Вёрстка блоков: главный, портфолио, обо мне, рекомендации, контакты, footer
@@ -20,5 +20,5 @@
 * JavaScript
 
 ### Ссылки:
-* :mag_right: [Открыть проект]()
+* :mag_right: [Открыть проект](https://gutmalina.github.io/CreativeDesign/)
 * :pushpin:   [Макет в Figma](https://www.figma.com/file/QoErA8O0yfvTQB9oewLGZY/Free-Portfolio-Website-UI-(Community)?node-id=1%3A2)
