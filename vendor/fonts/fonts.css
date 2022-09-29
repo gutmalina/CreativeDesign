@@ -1,0 +1,16 @@
+/*Шрифт Playfair Display*/
+@font-face {
+  font-family: "PlayfairDisplay";
+  font-weight: 400;
+  src: url("../fonts/PlayfairDisplay.ttf") format("ttf");
+}
+
+/*Шрифт Inter*/
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/Inter-Medium.woff2) format("woff2"),
+       url(../fonts/Inter-Medium.woff) format("woff");
+}

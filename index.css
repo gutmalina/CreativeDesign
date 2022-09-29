@@ -1,0 +1,62 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+
+@import url(./bloks/body/body.css);
+@import url(./bloks/page/page.css);
+
+@import url(./bloks/list/list.css);
+@import url(./bloks/list/__type/_header/list__type_header.css);
+
+@import url(./bloks/link/link.css);
+@import url(./bloks/link/__type/_header/link__type_header.css);
+
+@import url(./bloks/img/__type/_lead-rigth/img__type_lead-rigth.css);
+@import url(./bloks/img/__type/_lead-left/img__type_lead-left.css);
+
+@import url(./bloks/title/title.css);
+@import url(./bloks/title/__type/_lead/title__type_lead.css);
+
+@import url(./bloks/subtitle/__type/_lead/subtitle__type_lead.css);
+
+@import url(./bloks/header/header.css);
+
+@import url(./bloks/lead/lead.css);
+
+
+
+
+.list__type_about{}
+.img{}
+.img__type_header{}
+.img__type_portfolio {
+}
+.img__type_about{}
+.title__type_second {
+}
+.subtitle {
+}
+.subtitle__type_about{}
+.btn {
+}
+.btn__type_lead {
+}
+.btn__style_ligth {
+}
+
+.portfolio {
+}
+.porfolio__group {
+}
+.portfolio__card {
+}
+
+
+
+.about {
+}
+.testimonials {
+}
+.contact {
+}
+.footer {
+}
