@@ -15,6 +15,7 @@
 
 @import url(./bloks/title/title.css);
 @import url(./bloks/title/__type/_lead/title__type_lead.css);
+@import url(./bloks/title/__type/_lead-second/title__type_lead-second.css);
 
 @import url(./bloks/subtitle/__type/_lead/subtitle__type_lead.css);
 
@@ -37,10 +38,23 @@
 }
 .subtitle__type_about{}
 .btn {
+  border: none;
+  padding: 0;
+  box-sizing: border-box;
 }
 .btn__type_lead {
+  width: 260px;
+  height: 72px;
+  margin-left: 751px;
+  margin-bottom: 43px;
 }
 .btn__style_ligth {
+  background: #FFFFFF;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38.4067px;
+  line-height: 46px;
+  color: #000000;
 }
 
 .portfolio {

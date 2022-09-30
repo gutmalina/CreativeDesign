@@ -1,5 +1,7 @@
 .title__type_lead {
   font-weight: 700;
   font-size: 309.341px;
-  line-height: 412px;
+  line-height: 270px;
+  z-index: 1;
+  margin-left: 164px;
 }
