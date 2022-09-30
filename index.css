@@ -16,8 +16,11 @@
 @import url(./bloks/title/title.css);
 @import url(./bloks/title/__type/_lead/title__type_lead.css);
 @import url(./bloks/title/__type/_lead-second/title__type_lead-second.css);
+@import url(./bloks/title/__type/_porfolio/title__type_portfolio.css);
 
+@import url(./bloks/subtitle/subtitle.css);
 @import url(./bloks/subtitle/__type/_lead/subtitle__type_lead.css);
+@import url(./bloks/subtitle/__type/_about/subtitle__type_about.css);
 
 @import url(./bloks/header/header.css);
 
@@ -32,16 +35,7 @@
 .img__type_portfolio {
 }
 .img__type_about{}
-.title__type_portfolio {
-  font-weight: 400;
-  font-size: 81.3081px;
-  line-height: 108px;
-  color: #FFFFFF;
-  margin-bottom: 70px;
-}
-.subtitle {
-}
-.subtitle__type_about{}
+
 .btn {
   border: none;
   padding: 0;
@@ -66,6 +60,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 267px;
 }
 .porfolio__group {
   display: flex;
@@ -82,6 +77,15 @@
 
 
 .about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 340px;
+}
+.about__container{
+  display: flex;
+  flex-direction: row;
+  margin: 0 101px;
 }
 .testimonials {
 }
