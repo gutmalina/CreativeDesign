@@ -32,7 +32,12 @@
 .img__type_portfolio {
 }
 .img__type_about{}
-.title__type_second {
+.title__type_portfolio {
+  font-weight: 400;
+  font-size: 81.3081px;
+  line-height: 108px;
+  color: #FFFFFF;
+  margin-bottom: 70px;
 }
 .subtitle {
 }
@@ -58,10 +63,20 @@
 }
 
 .portfolio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .porfolio__group {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 1225px;
+  height: 2900px;
 }
 .portfolio__card {
+  margin-bottom: 76px;
+  margin-right: 75px;
 }
 
 
