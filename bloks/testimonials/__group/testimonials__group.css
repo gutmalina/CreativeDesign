@@ -1,0 +1,8 @@
+.testimonials__group{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 660px;
+  align-self: start;
+  margin-left: 193px;
+}

@@ -1,0 +1,5 @@
+.testimonials__type_horizontal{
+  display: flex;
+  flex-direction: row;
+  width: 740px;
+}

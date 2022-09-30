@@ -1,0 +1,6 @@
+.portfolio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 267px;
+}

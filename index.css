@@ -4,6 +4,10 @@
 @import url(./bloks/body/body.css);
 @import url(./bloks/page/page.css);
 
+@import url(./bloks/btn/btn.css);
+@import url(./bloks/btn/__type/_lead/btn__type_lead.css);
+@import url(./bloks/btn/__style/_lead/btn__style_ligth.css);
+
 @import url(./bloks/list/list.css);
 @import url(./bloks/list/__type/_header/list__type_header.css);
 
@@ -17,78 +21,31 @@
 @import url(./bloks/title/__type/_lead/title__type_lead.css);
 @import url(./bloks/title/__type/_lead-second/title__type_lead-second.css);
 @import url(./bloks/title/__type/_porfolio/title__type_portfolio.css);
+@import url(./bloks/title/__type/_testimonials/title__type_testimonials.css);
+@import url(./bloks/title/__type/_testimonials-small/title__type_testimonials-small.css);
 
 @import url(./bloks/subtitle/subtitle.css);
 @import url(./bloks/subtitle/__type/_lead/subtitle__type_lead.css);
 @import url(./bloks/subtitle/__type/_about/subtitle__type_about.css);
+@import url(./bloks/subtitle/__type/_testimonials/subtitle__type_testimonials.css);
+@import url(./bloks/subtitle/__type/_testimonials-small/subtitle__type_testimonials-small.css);
 
 @import url(./bloks/header/header.css);
 
 @import url(./bloks/lead/lead.css);
 
+@import url(./bloks/portfolio/portfolio.css);
+@import url(./bloks/portfolio/__group/porfolio__group.css);
+@import url(./bloks/portfolio/__card/portfolio__card.css);
 
+@import url(./bloks/about/about.css);
+@import url(./bloks/about/__container/about__container.css);
 
+@import url(./bloks/testimonials/testimonials.css);
+@import url(./bloks/testimonials/__group/testimonials__group.css);
+@import url(./bloks/testimonials/__description/testimonials__description.css);
+@import url(./bloks/testimonials/__type/_horizontal/testimonials__type_horizontal.css);
 
-.list__type_about{}
-.img{}
-.img__type_header{}
-.img__type_portfolio {
-}
-.img__type_about{}
-
-.btn {
-  border: none;
-  padding: 0;
-  box-sizing: border-box;
-}
-.btn__type_lead {
-  width: 260px;
-  height: 72px;
-  margin-left: 751px;
-  margin-bottom: 43px;
-}
-.btn__style_ligth {
-  background: #FFFFFF;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 38.4067px;
-  line-height: 46px;
-  color: #000000;
-}
-
-.portfolio {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-bottom: 267px;
-}
-.porfolio__group {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  width: 1225px;
-  height: 2900px;
-}
-.portfolio__card {
-  margin-bottom: 76px;
-  margin-right: 75px;
-}
-
-
-
-.about {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-bottom: 340px;
-}
-.about__container{
-  display: flex;
-  flex-direction: row;
-  margin: 0 101px;
-}
-.testimonials {
-}
 .contact {
 }
 .footer {

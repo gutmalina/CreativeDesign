@@ -1,0 +1,7 @@
+.porfolio__group {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 1225px;
+  height: 2900px;
+}
