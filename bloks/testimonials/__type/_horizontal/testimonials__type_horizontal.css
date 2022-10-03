@@ -1,5 +1,7 @@
 .testimonials__type_horizontal{
   display: flex;
   flex-direction: row;
-  width: 740px;
+  width: 760px;
+  background: #181818;
+  margin-bottom: 54px;
 }

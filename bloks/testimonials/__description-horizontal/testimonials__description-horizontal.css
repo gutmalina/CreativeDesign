@@ -1,0 +1,6 @@
+.testimonials__description-horizontal{
+  display: flex;
+  flex-direction: column;
+  width: 410px;
+  margin-left: 24px;
+}
