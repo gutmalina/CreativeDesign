@@ -93,22 +93,29 @@
         <button class="btn btn__style_dark">See  All Reviews</button>
       </section>
       <section id="contact" class="contact">
-        <h2></h2>
-        <form action="">
-          <div>
-            <input type="text">
-            <input type="text">
-            <input type="text">
-          </div>
-          <button class="btn btn__type_ligth"></button>
+        <h2 class="title title__type_contact title__type_portfolio">Contact</h2>
+        <form action="" class="contact__form">
+            <div class="contact__card">
+              <label for="name" class="subtitle subtitle__type_contact">Name</label>
+              <input id="name" type="text" class="contact__item" autocomplete placeholder="Jhon Doe">
+            </div>
+            <div class="contact__card">
+              <label for="email" class="subtitle subtitle__type_contact">Email</label>
+              <input id="email" type="email" class="contact__item" autocomplete placeholder="jhon@email.com">
+            </div>
+            <div class="contact__card">
+              <label for="message" class="subtitle subtitle__type_contact">Message</label>
+              <textarea name="message" id="message" class="contact__item contact__item_message" cols="30" rows="6" placeholder="Enter your message here..."></textarea>
+            </div>
+          <button class="btn btn__type_contact btn__style_ligth">Send</button>
         </form>
       </section>
     </main>
     <footer class="footer">
-      <p class="subtitle subtitle__type_footer"></p>
+      <p class="subtitle subtitle__type_footer">2022 Company</p>
       <ul class="list list__type_footer">
-        <li><p></p></li>
-        <li><p></p></li>
+        <li><p class="subtitle subtitle__type_footer-list">Privacy Policy</p></li>
+        <li><p class="subtitle subtitle__type_footer-list">Terms and Conditions</p></li>
       </ul>
     </footer>
   </div>
