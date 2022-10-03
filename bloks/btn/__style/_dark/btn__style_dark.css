@@ -1,0 +1,11 @@
+.btn__style_dark{
+  background: #000000;
+  width: 222px;
+  height: 78px;
+  border: 1.3px solid #FFFFFF;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21.778px;
+  line-height: 26px;
+  color: #FFFFFF;
+}

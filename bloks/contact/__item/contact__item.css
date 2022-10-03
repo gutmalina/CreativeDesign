@@ -1,0 +1,9 @@
+.contact__item{
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #BBBBBB;
+  background: #000000;
+  border: none;
+  margin-bottom: 8px;
+}

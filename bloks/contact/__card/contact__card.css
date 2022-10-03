@@ -1,0 +1,9 @@
+.contact__card{
+  display: flex;
+  flex-direction: column;
+  border-bottom: 2px solid #FFFFFF;
+  margin-bottom: 58px;
+}
+.contact__card:last-of-type{
+  margin-bottom: 106px;
+}

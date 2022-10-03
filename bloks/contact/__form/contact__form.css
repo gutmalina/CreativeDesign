@@ -1,0 +1,6 @@
+.contact__form{
+  display: flex;
+  flex-direction: column;
+  width: 857px;
+  margin-left: 3px;
+}
